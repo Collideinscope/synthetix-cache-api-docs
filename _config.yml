@@ -1,0 +1,21 @@
+title: Synthetix Cache API Documentation
+description: Documentation for the Synthetix Cache API (WIP)
+theme: minima
+
+# Optional configuration settings
+baseurl: "/synthetix-cache-api-docs" # The subpath of your site, e.g. /blog
+
+# Markdown processing options
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  toc_levels: 1..6
+
+# Specify the index file
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
