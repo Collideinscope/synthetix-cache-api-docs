@@ -2,9 +2,8 @@ title: Synthetix Cache API Documentation
 description: Documentation for the Synthetix Cache API (WIP)
 theme: minima
 
-# Optional configuration settings
-baseurl: "/synthetix-cache-api-docs" # The subpath of your site, e.g. /blog
-url: "https://collideinscope.github.io" # Your GitHub Pages URL
+baseurl: "/synthetix-cache-api-docs" 
+url: "https://collideinscope.github.io" 
 
 # Markdown processing options
 markdown: kramdown
@@ -14,7 +13,6 @@ kramdown:
   auto_ids: true
   toc_levels: 1..6
 
-# Specify the index file
 defaults:
   - scope:
       path: ""
