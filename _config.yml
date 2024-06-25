@@ -4,7 +4,7 @@ theme: minima
 
 # Optional configuration settings
 baseurl: "/synthetix-cache-api-docs" # The subpath of your site, e.g. /blog
-url: "https://Collideinscope.github.io" # Your GitHub Pages URL
+url: "https://collideinscope.github.io" # Your GitHub Pages URL
 
 # Markdown processing options
 markdown: kramdown
