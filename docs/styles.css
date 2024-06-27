@@ -26,9 +26,3 @@ table th {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5em;
 }
-
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
-}

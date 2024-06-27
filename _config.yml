@@ -1,8 +1,8 @@
 title: Synthetix Cache API Documentation
 description: Documentation for the Synthetix Cache API (WIP)
 
-baseurl: "/synthetix-cache-api-docs" # The subpath of your site
-url: "https://Collideinscope.github.io" # Your GitHub Pages URL
+baseurl: "/synthetix-cache-api-docs" 
+url: "https://Collideinscope.github.io" 
 
 markdown: kramdown
 kramdown:
