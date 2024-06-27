@@ -1,6 +1,6 @@
 title: Synthetix Cache API Documentation
 description: Documentation for the Synthetix Cache API (WIP)
-theme: minima
+theme: jekyll-theme-slate
 
 baseurl: "/synthetix-cache-api-docs" 
 url: "https://collideinscope.github.io" 
