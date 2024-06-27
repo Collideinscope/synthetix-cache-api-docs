@@ -1,11 +1,9 @@
 title: Synthetix Cache API Documentation
 description: Documentation for the Synthetix Cache API (WIP)
-theme: jekyll-theme-slate
 
-baseurl: "/synthetix-cache-api-docs" 
-url: "https://collideinscope.github.io" 
+baseurl: "/synthetix-cache-api-docs" # The subpath of your site
+url: "https://Collideinscope.github.io" # Your GitHub Pages URL
 
-# Markdown processing options
 markdown: kramdown
 kramdown:
   input: GFM
@@ -13,11 +11,11 @@ kramdown:
   auto_ids: true
   toc_levels: 1..6
 
-plugins:
-  - jekyll-remote-theme
-
 defaults:
   - scope:
       path: ""
     values:
       layout: "default"
+
+include:
+  - styles.css
