@@ -18,4 +18,4 @@ defaults:
       layout: "default"
 
 include:
-  - styles.css
+  - docs/styles.css
