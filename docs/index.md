@@ -1,3 +1,8 @@
+---
+title: Synthetix Cache API Documentation
+layout: default
+---
+
 # Synthetix Cache API Documentation
 
 ## Metrics and Transformations
